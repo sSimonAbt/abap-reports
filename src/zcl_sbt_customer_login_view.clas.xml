@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_VIEW</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>View Class für customer login screen</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_VIEW</CLSNAME>
+     <CMPNAME>CALL_LOGIN_SCREEN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Call the Login Screen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_VIEW</CLSNAME>
+     <CMPNAME>LOGIN_SCREEN_PAI</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Pai for Login Screen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_VIEW</CLSNAME>
+     <CMPNAME>MO_CUSTOMER_LOGIN_CNTRL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Controller Class for Customer Login</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Modelclass for home customer portal home screen</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MC_RANGE_NR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Nummernkreisnummer</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MC_STATUS_ORDERED</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Bestellstatus</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MO_HOME_SCREEN_CONTROLLER</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>controller for home customer portal home screen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MS_ORDER_ADDRESS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Structur for order address</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MT_CART</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Structur for cart</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MV_CUSTOMERNUMBER</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Customer Number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_HOME_SCREEN_MODEL</CLSNAME>
+     <CMPNAME>MV_CUSTOMER_EMAIL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>E-Mail-Addresse</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Web Shop Message</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Es ist ein Fehler beim erstellen des Nummernkreis aufgetreten!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Neuer Kunde &amp;1 &amp;2 mit Kundennummer &amp;3 angelegt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Es ist ein Fehler beim anlegen der Kundendaten aufgetreten !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Es ist ein Fehler beim Selektieren der Datensätze aufgetreten !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Es ist ein Fehler beim anlegen des Artikels aufgetreten !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Neuer Artikel &amp;1 &amp;2 mit Artikelnummer &amp;3 angelegt !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Deine Bestellung wurde aufgegeben mit Artikel &amp;1 und Menge &amp;2!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Es ist ein Fehler beim aufgeben der Bestellung aufgetreten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Deine Bestellung konnte nicht aufgegeben werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Deine Bestellung wurde aufgegeben !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Du musst erst Waren zum Warenkorb hinzufügen !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Waren konnte nicht zum Warenkorb hinzugefügt werden !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Bestellnummer konnte nicht erstellt werden !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Dein Artikel mit der Artikelnummer &amp;1 wurde zum Warenkorb hinzugefügt!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Es konnten keine Daten nach Bestellnummer selektiert werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Es konnten keine Daten nach Kundenummer selektiert werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Es konnten keine Daten nach Status selektiert werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Es sind noch keine Bestellungen von diesem Kunden vorhanden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Du musst Selektionskriterien eingeben!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Es ist  ein Fehler beim erstellen des ALV-Tabelle aufgetreten!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Es konnten keine Positionen zu deiner Bestellung angezeigt werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Fehler beim Anzeigen der Bestellungen!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Fehler! Aktion kann nicht durchgeführt werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Du musst zuerst eine Bestellung auswählen!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Fehler! Es sind keine Bestellungen vorhanden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Fehelr! Es konnten keine Daten abgerufen werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Es ist ein Fehler beim Aktualiseren des ALV-Grids aufgetreten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Programm kann nicht ausgeführt werden! Fehler !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Es ist ein Fehler beim erstellen der Objekte aufgetreten!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Es konnten keine Positionen gefunden werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Es ist ein Fehler im Programm aufgetreten! Bitte neustarten!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Kundeninformationen konnten nicht gefunden werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Fehler! Bestellung konnte nicht gelöscht werden !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>Fehler! Du musst zuerst eine Bestellung auswählen</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Fehler! Position konnte nicht gelöscht werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>Fehler! Position konnte nicht geändert werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Es ist ein Fehler bei erstellen der Sperre aufgetreten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Falsches Passwort !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Es konnte kein Benutzerkonto gefunden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Das eingebene Passwort ist falsch oder der Benutzer ist nicht vorhanden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Fehler beim Erstellen der Kundennummer!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Es ist ein Fehler beim Konvertieren des Passworts aufgetreten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Das Ausgewählte Produkt konnte nicht zum Warenkorb Hinzugefügt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Das Produkt konnte nicht  Ausgewählt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Es ist ein Fehler beim erstellen der Bestellung aufgetreten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Bestellnummer konnte nicht erstellt werden. Fehlercode: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>Fehler beim Aktualisieren der Anzeige!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>Ungültige Anzahl!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Es können nicht mehr als 50 Artikel aufeinmal bestellt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Es befinden sich keine Waren im Warenkorb!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Warenkorb kann nicht angezeigt werden! Fehlercode: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>Fehler beim Anzeigen der Produkte aufgetreten! Fehlercode: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>Es wurde kein Artikel markiert!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Es ist ein Fehler beim Auswählen des Artikels aufgetreten!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Sie wurden vom Kundenportal Abgemeldet</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>Es wurde kein Artikel markiert!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>Es ist ein Fehler aufgetreten</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>Es wurde keine Lieferadresse zu ihrem Kundekonto gefunden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>Fehler Position konnte nicht gelöscht werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>Position ist bereits in Bearbeitung oder ist bereits Abgeschlossen</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>Es ist ein Fehler beim Aktualisieren der View Aufgetreten. Fehlercode: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>Es ist ein Fehler beim erstellen der Anzeige aufgetreten( Fehlercode: &amp;1)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>Es ist ein Fehler beim erstellen der Anzeige aufgetreten( Fehlercode: &amp;1)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>Es ist ein Fehler beim erstellen der Anzeige aufgetreten( Fehlercode: &amp;1)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>Der eingegebene Wert ist ungültig.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>Sie müssen einen Eintrag markieren um eine Menge ändern zu können!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>068</MSGNR>
+     <TEXT>Die Bestellung konnte nich angepasst werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>Fehler! Feld Artikelnummer ist nicht gefüllt!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>User konnte nicht gefunden werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>Passwort ist fehlerhaft</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>Es existiert kein Lagerplatz zum vorhandenen Produkt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>Vorhandener Lagerplatz: &amp;1 wurde für Produkt: &amp;2 gefunden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>075</MSGNR>
+     <TEXT>SCAN Lagerplatz stimmt nicht mit dem Vorgeschlagenem Lagerplatz überein</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>076</MSGNR>
+     <TEXT>Artikel wurde erfolgreich gefunden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>077</MSGNR>
+     <TEXT>Gescannter Artikel ist nicht im System vorhanden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>080</MSGNR>
+     <TEXT>Es konnte kein neuer Lagerplatz vorgeschlagen werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>081</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>083</MSGNR>
+     <TEXT>Fehler Mengeneinheit stimmt nicht überein</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>084</MSGNR>
+     <TEXT>Es konnte nicht nach Bestellnummer sortiert werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>085</MSGNR>
+     <TEXT>Es konnte nicht nach Bestellstatus sortiert werden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>086</MSGNR>
+     <TEXT>Es konnten keine Bestellungen gefunden werden.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZSBT_WEB_SHOP</ARBGB>
+     <MSGNR>087</MSGNR>
+     <TEXT>Artikel konnte nicht zum Warenkorb hinzugefügt werden.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

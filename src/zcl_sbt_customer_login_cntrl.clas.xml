@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Controller Class for Customer Login</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>MO_CUSTOMER_LOGIN_MODEL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Model Class for customer login</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>MO_CUSTOMER_LOGIN_VIEW</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>View Class für customer login screen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>MO_CUSTOMER_REGISTER_VIEW</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>View to register new customer</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>MO_HOME_SCREEN_CONTROLLER</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>controller for home customer portal home screen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>MV_CUSTOMER_EMAIL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>E-Mail-Addresse</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>ON_CONFIRM_LOGIN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>reaction of confirm button</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>ON_LEAVE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>leave program</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_CUSTOMER_LOGIN_CNTRL</CLSNAME>
+     <CMPNAME>ON_REGISTER</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>reaction of register button in login screen</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

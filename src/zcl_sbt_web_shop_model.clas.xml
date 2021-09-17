@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Klasse Model für Übungsaufgabe Web-Shop</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>GET_ANSICHT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Holt mir die interenen Bestellungen für die Ansicht</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>GET_BESTELLUNGEN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Holt mir die internen Bestellungen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>GET_BESTELLUNGENANSICHT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Ansicht der Tabelle</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>GET_INFORMATION</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Instanzmethode je nach Anweisung Tabelle zurückgibt</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>GET_POSITIONS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Holt Positionen zu Bestellungen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>GET_POSITIONS_AUSGABE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Holt die internen Positionen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>MT_BESTELLUNGEN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Datenbanktabelle für Bestellungen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_SBT_WEB_SHOP_MODEL</CLSNAME>
+     <CMPNAME>MT_POSITIONEN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Datenbanktabelle für Bestellungen</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

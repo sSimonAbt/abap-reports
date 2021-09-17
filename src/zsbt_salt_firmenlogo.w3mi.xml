@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_W3MI" serializer_version="v2.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NAME>ZSBT_SALT_FIRMENLOGO</NAME>
+   <TEXT>Firmenlogo SALT</TEXT>
+   <PARAMS>
+    <WWWPARAMS>
+     <RELID>MI</RELID>
+     <OBJID>ZSBT_SALT_FIRMENLOGO</OBJID>
+     <NAME>fileextension</NAME>
+     <VALUE>.gif</VALUE>
+    </WWWPARAMS>
+    <WWWPARAMS>
+     <RELID>MI</RELID>
+     <OBJID>ZSBT_SALT_FIRMENLOGO</OBJID>
+     <NAME>filename</NAME>
+     <VALUE>Logo_SALT_SOLUTIONS_RGB_gelb_transparent_png.gif</VALUE>
+    </WWWPARAMS>
+    <WWWPARAMS>
+     <RELID>MI</RELID>
+     <OBJID>ZSBT_SALT_FIRMENLOGO</OBJID>
+     <NAME>mimetype</NAME>
+     <VALUE>image/gif</VALUE>
+    </WWWPARAMS>
+   </PARAMS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
