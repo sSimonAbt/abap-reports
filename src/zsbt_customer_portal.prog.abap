@@ -22,6 +22,6 @@ TRY.
     "output error message
     MESSAGE lo_exc.
     "If a Exception comes up in the Login oder Register Screen restart application
-    SUBMIT z_customer_portal.
+    SUBMIT zsbt_customer_portal.
 
 ENDTRY.
